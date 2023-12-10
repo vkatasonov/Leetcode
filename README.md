@@ -16,7 +16,7 @@ In this repository you can find my solutions of different Leetcode problems.
 
 |Question                           | Topics                                  | Level         |
 |:--------------------------------- | ----------------------------------------|---------------|
-|412. FizzBuzz                      | `Math`, `Strings`, `Simulation`         | `🟢 easy`     |
-|1480. Running Sum of 1d Array      | `Array`, `Prefix Sum`                   | `🟢 easy`     |
-|1672. Richest Customer Wealth.     | `Array`, `Matrix`                       | `🟢 easy`     |
+|412. FizzBuzz                      | `Math` `Strings` `Simulation`           | `🟢 easy`     |
+|1480. Running Sum of 1d Array      | `Array` `Prefix Sum`                    | `🟢 easy`     |
+|1672. Richest Customer Wealth.     | `Array` `Matrix`                        | `🟢 easy`     |
 |2235. Add Two Integers             | `Math`                                  | `🟢 easy`     |
