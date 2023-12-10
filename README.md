@@ -7,7 +7,7 @@ In this repository you can find my solutions of different Leetcode problems.
 ## About Me
 42 Málaga student and digital project managenr with a background in comunications (journalism and PR). 
 
-[![vkatason's 42 stats](https://badge.mediaplus.ma/kettlebells/vkatason?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![vkatason's 42 stats](https://badge.mediaplus.ma/kettlebells/vkatason?1337Badge=off&UM6P=off)](https://github.com/vkatasonov)
 
 ## Progress
 
