@@ -1,5 +1,5 @@
 
-# [![Leetcode](https://miro.medium.com/v2/resize:fit:50/1*IC0JXUE3UEAfDfQnFyGtGA.jpeg)]() Leetcode solutions
+# [![Leetcode](https://miro.medium.com/v2/resize:fit:50/1*IC0JXUE3UEAfDfQnFyGtGA.jpeg)]() </br> Leetcode solutions
 
 In this repository you can find my solutions of different Leetcode problems. 
 
